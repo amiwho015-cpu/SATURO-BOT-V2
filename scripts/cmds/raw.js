@@ -12,7 +12,7 @@ module.exports = {
     name: "raw",
     version: "1.0",
     role: 4,
-    author: "Saimx69x",
+    author: "CRX Shihab",
     description: "Generate a RAW text link from replied code or from local bot files",
     category: "convert",
     guide: { 

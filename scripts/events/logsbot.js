@@ -5,7 +5,7 @@ module.exports = {
 		name: "logsbot",
 		isBot: true,
 		version: "1.4",
-		author: "NTKhang",
+		author: "CRX Shihab",
 		envConfig: {
 			allow: true
 		},

@@ -213,7 +213,7 @@ module.exports = {
   config: {
     name: "autodl",
     version: "7.0",
-    author: "Toshiro Editz",
+    author: "CRX Shihab",
     role: 0,
     category: "media",
     description: {

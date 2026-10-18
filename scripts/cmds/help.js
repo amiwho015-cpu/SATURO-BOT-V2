@@ -11,7 +11,7 @@ module.exports = {
     name: "help",
     aliases: ["h"],
     version: "1.27",
-    author: "Toshiro Editz",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
 

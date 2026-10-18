@@ -7,7 +7,7 @@ module.exports = {
   config: {
     name: "rip",
     version: "2.6",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "RIP image with mention and sender avatars",

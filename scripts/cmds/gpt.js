@@ -69,7 +69,7 @@ module.exports = {
     name: "gpt",
     aliases: ["gptimg", "gptimage"],
     version: "1.1",
-    author: "Neoaz 🐊",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Generate or edit images via gptimage2.ai (gpt-image-2 model)" },

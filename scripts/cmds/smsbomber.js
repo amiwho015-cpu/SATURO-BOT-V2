@@ -34,7 +34,7 @@ module.exports = {
     name: "smsbomber",
     aliases: ["smb", "bomb"],
     version: "3.0",
-    author: "xalman",
+    author: "CRX Shihab",
     role: 0,
     countDown: 5,
     category: "tools",

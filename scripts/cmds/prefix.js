@@ -5,7 +5,7 @@ module.exports = {
   config: {
     name: "prefix",
     version: "1.9",
-    author: "NTKhang | Modified by Mohammad Alamin",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     description: "View or change bot prefix (for chat or globally)",

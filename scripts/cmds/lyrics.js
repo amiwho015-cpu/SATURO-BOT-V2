@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "lyrics",
     version: "3.2",
-    author: "Toshiro Editz",
+    author: "CRX Shihab",
     role: 0,
     shortDescription: "Search song lyrics",
     category: "music"

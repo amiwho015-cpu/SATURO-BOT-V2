@@ -6,7 +6,7 @@ module.exports = {
     name: "noprefix",
     aliases: ["nopfx"],
     version: "1.0",
-    author: "Neoaz 🐊",
+    author: "CRX Shihab",
     countDown: 5,
     role: 2,
     description: {

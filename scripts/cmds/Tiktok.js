@@ -5,7 +5,7 @@ module.exports = {
     name: "tiktok",
     aliases: ["tiksearch", "tt"],
     version: "1.1",
-    author: "Toshiro Editz",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Search TikTok videos" },

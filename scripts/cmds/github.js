@@ -33,7 +33,7 @@ module.exports = {
   config: {
     name: "github",
     version: "1.0",
-    author: "xalman",
+    author: "CRX Shihab",
     role: 0,
     countDown: 5,
     shortDescription: { en: "Fetch GitHub user profile and top repositories" },

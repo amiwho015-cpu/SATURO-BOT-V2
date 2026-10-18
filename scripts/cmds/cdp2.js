@@ -34,7 +34,7 @@ module.exports = {
     name: "coupledp2",
     aliases: ["cdp2"],
     version: "5.5",
-    author: "xalman",
+    author: "CRX Shihab",
     description: "Random Matching Couple DP with auto-retry and list system",
     category: "love",
     cooldown: 5,

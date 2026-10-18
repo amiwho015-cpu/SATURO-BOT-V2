@@ -2,7 +2,7 @@ module.exports = {
   config: {
     name: "autoreact",
     version: "5.1.0",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     role: 0,
     category: "system",
     shortDescription: "Auto react with ON/OFF control",

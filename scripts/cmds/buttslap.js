@@ -5,7 +5,7 @@ module.exports = {
   config: {
     name: "buttslap",
     version: "1.2",
-    author: "KSHITIZ | Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "Buttslap image",

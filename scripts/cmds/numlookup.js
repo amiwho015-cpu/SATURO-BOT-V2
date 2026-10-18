@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "numlookup",
     version: "1.0",
-    author: "SiAM",
+    author: "CRX Shihab",
     countDown: 10,
     role: 0,
     category: "Utility",

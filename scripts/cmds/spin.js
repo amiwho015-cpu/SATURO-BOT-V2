@@ -14,7 +14,7 @@ module.exports = {
   config: {
     name: "spin",
     version: "2.0",
-    author: "xalman",
+    author: "CRX Shihab",
     role: 0,
     countDown: 5,
     category: "GAMES",

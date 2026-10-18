@@ -88,7 +88,7 @@ module.exports = {
   config: {
     name: "lathi",
     version: "2.2",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     category: "fun"

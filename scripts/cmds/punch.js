@@ -7,7 +7,7 @@ module.exports = {
     name: "punch",
     aliases: ["pnch"],
     version: "1.5",
-    author: "Toshiro Editz",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     description: "🥊 Generate a punch image for sender and tagged user",

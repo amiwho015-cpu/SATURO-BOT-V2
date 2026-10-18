@@ -3,7 +3,7 @@ module.exports = {
     name: "stats",
     aliases: ["dbstatus", "dbs"],
     version: "1.0.4",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     role: 2,
     category: "Admin",
     shortDescription: "Check MongoDB status with stylish report",

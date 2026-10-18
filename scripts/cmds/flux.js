@@ -6,7 +6,7 @@ module.exports = {
     config: {
         name: "flux",
         version: "3.2.0",
-        author: "xalman",
+        author: "CRX Shihab",
         countDown: 8,
         role: 0,
         shortDescription: "Generate High-Quality AI Images",

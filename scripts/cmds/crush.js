@@ -4,7 +4,7 @@ const fs = require("fs-extra");
 module.exports = {
   config: {
     name: "crush",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     role: 0,
     shortDescription: "Get Crush Pair with 10 background choices",
     longDescription: "Mention/Reply to match, or just type /crush for auto random match based on gender.",

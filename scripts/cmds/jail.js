@@ -7,7 +7,7 @@ module.exports = {
     name: "jail",
     aliases: ["prison"],
     version: "1.0",
-    author: "Saimx69x",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     description: "Put someone in jail 😆",

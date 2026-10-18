@@ -3,7 +3,7 @@ module.exports = {
     name: "slot",
     aliases: ["slots"],
     version: "8.0",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     role: 0,
     countDown: 5,
     category: "GAMES",

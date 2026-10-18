@@ -3,7 +3,7 @@ module.exports = {
     name: "fork",
     aliases: ["repo", "source"],
     version: "2.0",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 3,
     role: 0,
     longDescription: "Returns the link to the official repository.",

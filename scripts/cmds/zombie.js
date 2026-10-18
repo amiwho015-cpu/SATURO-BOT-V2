@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "zombie",
     version: "1.0",
-    author: "S4Eren",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "Transform images into zombie version",

@@ -2,7 +2,7 @@ module.exports = {
   config: {
     name: "kickall",
     version: "1.0",
-    author: "NEXXO",
+    author: "CRX Shihab",
     role: 2,
     shortDescription: {
       en: "Kick everyone from the group"

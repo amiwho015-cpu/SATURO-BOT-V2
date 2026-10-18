@@ -6,7 +6,7 @@ const { createCanvas, loadImage } = require("canvas");
 module.exports.config = {
   name: "pregnant",
   version: "1.0.0",
-  author: "Anik Islam Sadik",
+  author: "CRX Shihab",
   cooldowns: 15,
   role: 0,
   aliases: ["pgt"],

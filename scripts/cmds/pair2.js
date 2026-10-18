@@ -8,7 +8,7 @@ module.exports = {
     name: "pair2",
     aliases: ["pr2","pair 2"],
     version: "1.1.0",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     role: 0,
     category: "love",
     shortDescription: "Pair two users with love percentage",

@@ -7,7 +7,7 @@ module.exports = {
     name: "bou",
     aliases: ["bow"],
     version: "0.0.8",
-    author: "Azadx69x",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: { en: "oilo bou / bow" },

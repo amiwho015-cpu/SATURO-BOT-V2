@@ -5,7 +5,7 @@ module.exports = {
 		name: "jsontomongodb",
 		aliases: ["jsontomongo"],
 		version: "1.5",
-		author: "NTKhang",
+		author: "CRX Shihab",
 		countDown: 5,
 		role: 2,
 		description: {

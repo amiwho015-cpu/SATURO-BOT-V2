@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "hug",
     version: "1.0",
-    author: "Saimx69x",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     description:

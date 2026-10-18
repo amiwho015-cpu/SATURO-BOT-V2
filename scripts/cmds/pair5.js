@@ -7,7 +7,7 @@ module.exports = {
   config: {
     name: "pair5",
     aliases: ["pr5", "pair 5"],
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     category: "love",
   },
 

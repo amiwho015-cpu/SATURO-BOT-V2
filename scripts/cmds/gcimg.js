@@ -40,7 +40,7 @@ module.exports = {
         name: "gcimg",
         aliases: ["gcimage"],
         version: "2.0",
-        author: "Anik Islam Sadik",
+        author: "CRX Shihab",
         countDown: 5,
         role: 0,
         description: "Generate Group Card",

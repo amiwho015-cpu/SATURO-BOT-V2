@@ -8,7 +8,7 @@ module.exports = {
     name: "alien",
     aliases: ["spacealien"],
     version: "1.1",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     cooldowns: 5,
     role: 0,
     shortDescription: { en: "Alien canvas meme generator" },

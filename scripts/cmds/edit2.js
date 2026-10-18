@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "edit2",
     version: "0.0.7",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "Edit image",

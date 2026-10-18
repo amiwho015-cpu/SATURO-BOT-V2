@@ -5,7 +5,7 @@ module.exports = {
     name: "namaz",
     aliases: ["prayertime", "namaj", "salah", "salat"],
     version: "1.0",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "Get prayer times based on city",

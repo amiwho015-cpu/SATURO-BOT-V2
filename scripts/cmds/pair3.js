@@ -7,7 +7,7 @@ module.exports = {
     name: "pair3",
     aliases: ["pr3"," pair 3"],
     version: "2.0",
-    author: "Toshiro Editz",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "Pair Match",

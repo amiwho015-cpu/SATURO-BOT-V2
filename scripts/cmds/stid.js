@@ -5,7 +5,7 @@ module.exports = {
     name: "stid",
     aliases: ["stickerid", "st"],
     version: "1.0",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Get ID of a replied sticker" },

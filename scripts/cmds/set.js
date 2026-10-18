@@ -23,7 +23,7 @@ module.exports = {
   config: {
     name: "set",
     version: "1.3",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     role: 0,
     shortDescription: {
       en: "Set coins and experience points for a user"

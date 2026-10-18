@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "amv",
     version: "1.0",
-    author: "Toshiro Editz",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: {

@@ -8,7 +8,7 @@ module.exports = {
     aliases: ["convertmp3", "convertmp3"],
     version: "1.0.0",
     role: 0,
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     shortDescription: "Convert video to MP3 🎧",
     longDescription: "Download video from URL and convert to MP3.",
     category: "media",
@@ -35,7 +35,6 @@ module.exports = {
 
       // 🔊 Send back as attachment
       api.sendMessage({
-        body: "Mᴘ3 ʀᴇᴀᴅʏ ✅",
         attachment: fs.createReadStream(filePath)
       }, threadID, async () => {
         fs.unlinkSync(filePath); // Delete after sending

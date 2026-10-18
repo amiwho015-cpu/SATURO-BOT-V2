@@ -34,7 +34,7 @@ module.exports = {
     name: "meme",
     aliases: ["randommeme"],
     version: "3.0",
-    author: "xalman",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "Get random memes or check total count",

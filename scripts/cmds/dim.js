@@ -28,7 +28,7 @@ module.exports = {
     name: 'dim',
     aliases: ['anda'],
     version: '2.1',
-    author: 'Anik Islam Sadik',
+    author: "CRX Shihab",
     role: 0,
     category: 'fun',
     shortDescription: 'Turn someone into dim meme',

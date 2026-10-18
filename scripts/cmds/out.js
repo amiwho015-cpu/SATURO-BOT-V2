@@ -1,7 +1,7 @@
 module.exports = {
  config: {
  name: "out",
- author: "Anik Islam Sadik",
+ author: "CRX Shihab",
  role: 2, 
  shortDescription: "Make the bot leave the group",
  category: "admin",

@@ -87,7 +87,7 @@ module.exports = {
     name: "ai",
     aliases: ["chat", "gpt"],
     version: "1.1",
-    author: "Neoaz 🐊",
+    author: "CRX Shihab",
     countDown: 3,
     role: 0,
     shortDescription: { en: "Chat with AI" },

@@ -2,7 +2,7 @@ module.exports = {
 	config: {
 		name: "count",
 		version: "2.1",
-		author: "NTKhang | Upgrade by Toshiro Editz",
+		author: "CRX Shihab",
 		countDown: 5,
 		role: 0,
 		description: {
@@ -449,7 +449,7 @@ function splitPages(
 
 	return pages.length
 		? pages
-		: ;
+		: [[]];
 }
 
 function getTitle(

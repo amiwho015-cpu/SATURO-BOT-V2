@@ -12,7 +12,7 @@ module.exports = {
     name: "dice",
     aliases: ["roll"],
     version: "1.0",
-    author: "Toshiro Editz",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "Guess the dice number",

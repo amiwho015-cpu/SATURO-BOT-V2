@@ -38,7 +38,7 @@ module.exports = {
     name: "ai-song",
     aliases: ["aisong", "aimusic"],
     version: "4.1",
-    author: "xalman",
+    author: "CRX Shihab",
     countDown: 20,
     role: 0,
     shortDescription: "Generate AI songs",
@@ -154,7 +154,6 @@ Type {pn} help for full guide.`,
 
       return api.sendMessage(
         {
-          body: `🎵 AI Song Generated\n⏱️ ${duration}s`,
           attachment: fs.createReadStream(filePath)
         },
         threadID,

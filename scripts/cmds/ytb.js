@@ -271,7 +271,7 @@ module.exports = {
     name: "ytb",
     aliases: ["youtube", "yt"],
     version: "2.0",
-    author: "Mueid Mursalin Rifat",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "🎵 YouTube downloader",
@@ -503,16 +503,7 @@ async function downloadAndSendFile(downloadUrl, metadata, type, message, waitMsg
     const duration = metadata?.duration || "N/A";
     const views = metadata?.views ? formatViews(metadata.views) : "N/A";
 
-    let body = `🎵 ${title}\n`;
-    body += `📺 Channel: ${channel}\n`;
-    body += `⏱ Duration: ${duration}\n`;
-    body += `👁 Views: ${views}\n`;
-    body += `📦 Size: ${fileSize}MB\n`;
-    body += `🔧 API: ${apiSource}\n\n`;
-    body += `🔰 Made by Anik Islam Sadik`;
-
     await message.reply({
-      body: body,
       attachment: fs.createReadStream(filePath)
     });
 

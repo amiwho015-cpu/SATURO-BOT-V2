@@ -3,7 +3,7 @@ module.exports = {
     name: "top",
     aliases: ["richlist"],
     version: "1.2",
-    author: "xnil6x",
+    author: "CRX Shihab",
     shortDescription: "💰 Top Money Leaderboard",
     longDescription: "🏆 Displays users with highest balances in K/M/B/T/QT format",
     category: "Economy",

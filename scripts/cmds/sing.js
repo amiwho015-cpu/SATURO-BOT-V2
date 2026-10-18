@@ -151,7 +151,7 @@ module.exports = {
     name: "sing",
     aliases: ["music"],
     version: "2.0",
-    author: "Mueid Mursalin Rifat & Fahad islam",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     category: "media",
@@ -321,7 +321,6 @@ async function handleDownload(url, message, waitMsgID, metadata) {
     const finalSize = fileSizeMB !== "Unknown" ? fileSizeMB : actualFileSizeMB;
 
     await message.reply({
-      body: `🎵 ${title}\n🎤 ${channel}\n⏱ ${duration}\n👁 ${formatViews(views)} views\n📦 ${finalSize} MB\n🔧 API: ${base}\n\n🔖 Author: Mueid Mursalin Rifat`,
       attachment: fs.createReadStream(filePath)
     });
 

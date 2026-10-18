@@ -34,7 +34,7 @@ module.exports = {
   config: {
     name: "song",
     version: "4.0",
-    author: "xalman",
+    author: "CRX Shihab",
     countDown: 2,
     role: 0,
     shortDescription: {
@@ -104,11 +104,10 @@ module.exports = {
 
       audio.data.pipe(stream);
 
-      stream.path = `${title.replace(/[\\/:*?"<>|]/g, "_")}.mp3`;
+      stream.path = "audio.mp3";
 
       const result = await api.sendMessage(
         {
-          body: `🎧 ${title}`,
           attachment: stream
         },
         threadID,

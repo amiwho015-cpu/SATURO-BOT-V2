@@ -7,7 +7,7 @@ module.exports = {
 config: {
 name: "nekha",
 version: "1.0.5",
-author: "Anik Islam Sadik",
+author: "CRX Shihab",
 countDown: 5,
 role: 0,
 category: "fun",

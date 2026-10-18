@@ -7,7 +7,7 @@ module.exports = {
     name: "spank",
     aliases: ["spnk"],
     version: "1.1",
-    author: "Toshiro Editz",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     description: "🍑 Generate a spank image for sender and tagged user",

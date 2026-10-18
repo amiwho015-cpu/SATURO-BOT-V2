@@ -35,7 +35,7 @@ module.exports = {
     name: "truthordare",
     aliases: ["tod", "td", "tord"],
     version: "1.2",
-    author: "xalman",
+    author: "CRX Shihab",
     role: 0,
     countDown: 5,
     shortDescription: "Play truth or dare",

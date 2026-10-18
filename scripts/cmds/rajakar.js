@@ -7,7 +7,7 @@ module.exports = {
   config: {
     name: "rajakar",
     version: "12.0.5",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 1,
     role: 0,
     category: "fun",

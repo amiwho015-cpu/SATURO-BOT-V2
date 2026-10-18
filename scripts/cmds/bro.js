@@ -7,7 +7,7 @@ module.exports = {
     name: "bro",
     aliases: ["bestie", "nakama"],
     version: "1.2",
-    author: "TOSHIRO EDITZ",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     description: "🤝 Generate a nakama bond image",

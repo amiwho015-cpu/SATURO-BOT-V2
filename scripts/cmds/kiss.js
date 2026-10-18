@@ -7,7 +7,7 @@ module.exports = {
   config: {
     name: "kiss",
     version: "1.6",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "A fun kiss picture!",

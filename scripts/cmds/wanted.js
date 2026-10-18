@@ -3,7 +3,7 @@ const axios = require("axios");
 const fs = require("fs-extra");
 
 module.exports = {
-  config: { name: "wanted", author: "Toshiro Editz", category: "fun", role: 0 },
+  config: { name: "wanted", author: "CRX Shihab", category: "fun", role: 0 },
 
   onStart: async ({ event, message }) => {
     const uid = Object.keys(event.mentions)[0] || event.senderID;

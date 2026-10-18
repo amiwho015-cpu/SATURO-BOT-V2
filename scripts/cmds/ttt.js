@@ -109,7 +109,7 @@ module.exports = {
     name: "ttt",
     aliases: ["tic-tac-toe"],
     version: "3.7",
-    author: "Toshiro Editz",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "Play tic tac toe",

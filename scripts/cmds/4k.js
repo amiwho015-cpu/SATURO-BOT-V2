@@ -36,7 +36,7 @@ module.exports = {
     name: "4k",
     aliases: ["upscale"],
     version: "3.1",
-    author: "xalman",
+    author: "CRX Shihab",
     countDown: 15,
     role: 0,
     shortDescription: "AI Image Upscaler",

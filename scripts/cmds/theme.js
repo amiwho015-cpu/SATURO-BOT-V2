@@ -5,7 +5,7 @@ module.exports = {
     name: "theme",
     aliases: ["aitheme", "changetheme"],
     version: "2.1",
-    author: "Neoaz ゐ",
+    author: "CRX Shihab",
     countDown: 5,
     role: 1,
     description: "Create and apply AI themes for chat group with image previews",

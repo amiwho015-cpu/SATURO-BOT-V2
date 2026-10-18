@@ -34,7 +34,7 @@ module.exports = {
     name: "emojimean",
     aliases: ["emojiinfo"],
     version: "1.0.0",
-    author: "xalman",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "Get the meaning of an emoji",

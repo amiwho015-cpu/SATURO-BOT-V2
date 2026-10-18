@@ -8,7 +8,7 @@ module.exports = {
     name: "up",
     aliases: ["uptime"],
     version: "0.0.7",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 3,
     role: 0,
     shortDescription: "bot stats image",

@@ -12,7 +12,7 @@ module.exports = {
     name: "fakechat",
     aliases: ["fc"],
     version: "9.0",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     category: "fun",
     guide: "Reply → {p}fc Hi 😈 | How are you? ❤️"
   },

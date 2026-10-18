@@ -12,7 +12,7 @@ module.exports = {
                 name: "pair6",
                 aliases: ["pair 6", "pr6"],
                 version: "1.8",
-                author: "MahMUD | Anik Islam Sadik",
+                author: "CRX Shihab",
                 countDown: 10,
                 role: 0,
                 description: {

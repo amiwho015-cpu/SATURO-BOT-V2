@@ -5,7 +5,7 @@ module.exports = {
     name: "file",
     aliases: ["givefile"],
     version: "1.2",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 5,
     role: 2,
     description: "Extract and send source code of any command file.",

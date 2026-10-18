@@ -66,7 +66,7 @@ module.exports = {
     name: "genx",
     aliases: ["gnx"],
     version: "2.0.0",
-    author: "xalman",
+    author: "CRX Shihab",
     countDown: 15,
     role: 0,
     shortDescription: { en: "Generate or edit images with 10 AI models" },

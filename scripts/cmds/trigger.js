@@ -6,7 +6,7 @@ const path = require("path");
 module.exports = {
   config: {
     name: "trigger",
-    author: "Toshiro Editz",
+    author: "CRX Shihab",
     category: "fun",
     role: 0,
     countDown: 5

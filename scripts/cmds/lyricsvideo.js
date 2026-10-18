@@ -36,7 +36,7 @@ module.exports = {
     name: "lyricsvideo",
     aliases: ["lyricsvid", "lvid"],
     version: "1.0",
-    author: "xalman",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Get a lyrics video from TikTok" },
@@ -99,7 +99,6 @@ module.exports = {
       const msg = `✦ 𝗟𝗬𝗥𝗜𝗖𝗦 𝗩𝗜𝗗𝗘𝗢 ✦\n━━━━━━━━━━━━━━━━━━\n♫ 𝗘𝗻𝗷𝗼𝘆 𝘆𝗼𝘂𝗿 𝘀𝗼𝗻𝗴 ♫`;
 
       return api.sendMessage({
-        body: msg,
         attachment: fs.createReadStream(filePath)
       }, threadID, () => {
         if (fs.existsSync(filePath)) fs.unlinkSync(filePath);

@@ -5,7 +5,7 @@ module.exports = {
     name: "autosticker",
     aliases: ["sticker"],
     version: "5.8",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     description: "Send a random sticker with cooldown. Reply-stickers are ignored.",

@@ -13,7 +13,7 @@ module.exports = {
 	config: {
 		name: "moon",
 		version: "1.4",
-		author: "NTKhang",
+		author: "CRX Shihab",
 		countDown: 5,
 		role: 0,
 		description: {

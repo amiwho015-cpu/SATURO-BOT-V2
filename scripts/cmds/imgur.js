@@ -33,7 +33,7 @@ module.exports = {
   config: {
     name: "imgur",
     version: "3.5",
-    author: "xalman",
+    author: "CRX Shihab",
     countDown: 3,
     role: 0,
     shortDescription: "Upload media to Imgur (supports multiple)",

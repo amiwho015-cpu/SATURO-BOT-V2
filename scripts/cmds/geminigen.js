@@ -18,7 +18,7 @@ module.exports = {
  config: {
  name: "geminigen",
  version: "1.0",
- author: "Saimx69x (Api by Kay)",
+ author: "CRX Shihab",
  countDown: 5,
  role: 0,
  shortDescription: "Generate or edit images using text prompts",

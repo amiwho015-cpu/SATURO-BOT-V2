@@ -34,7 +34,7 @@ module.exports = {
  config: {
  name: "pair",
  aliases: ["pr"],
- author: "Saimx69x | Anik Islam Sadik",
+ author: "CRX Shihab",
  version: "2.1",
  role: 0,
  category: "love",

@@ -364,7 +364,7 @@ module.exports = {
         name: "bank",
         aliases: ["atm", "banking"],
         version: "2.0",
-        author: "Neoaz 🐦",
+        author: "CRX Shihab",
         countDown: 5,
         role: 0,
         description: "Complete banking system with ATM cards, transfers, savings accounts",

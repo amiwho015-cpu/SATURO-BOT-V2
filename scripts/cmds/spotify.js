@@ -36,7 +36,7 @@ module.exports = {
     name: "spotify",
     aliases: ["sing2", "s2"],
     version: "2.1",
-    author: "xalman",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Search and download Spotify songs" },
@@ -177,7 +177,6 @@ module.exports = {
       const msg = `🎵 𝗦𝗣𝗢𝗧𝗜𝗙𝗬 𝗦𝗢𝗡𝗚\n━━━━━━━━━━━━━━━━━━\n📌 Title: ${title}\n👤 Artist: ${artist}`;
 
       return api.sendMessage({
-        body: msg,
         attachment: fs.createReadStream(filePath)
       }, threadID, () => {
         if (fs.existsSync(filePath)) fs.unlinkSync(filePath);

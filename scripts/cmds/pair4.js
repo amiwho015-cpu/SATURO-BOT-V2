@@ -8,7 +8,7 @@ module.exports = {
     name: 'pair4',
     aliases: ['pr4','pair 4'],
     version: '1.0',
-    author: 'Mueid Mursalin Rifat',
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: 'Pair With you Soulmate',

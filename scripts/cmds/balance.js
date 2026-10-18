@@ -311,7 +311,7 @@ module.exports = {
         name: "balance",
         aliases: ["bal", "wallet", "mybalance", "wcard"],
         version: "2.0.0",
-        author: "Neoaz ゐ",
+        author: "CRX Shihab",
         countDown: 10,
         role: 0,
         description: "Display your wallet balance with a professional card featuring your profile picture",

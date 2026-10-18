@@ -34,7 +34,7 @@ module.exports = {
     name: "imgbb",
     aliases: ["ibb", "i"],
     version: "2.5",
-    author: "xalman",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "Upload image/gif to ImgBB (supports multiple)",

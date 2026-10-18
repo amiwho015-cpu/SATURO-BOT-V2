@@ -7,7 +7,7 @@ module.exports = {
     config: {
         name: "kiss2",
         version: "3.5.1",
-        author: "Anik Islam Sadik",
+        author: "CRX Shihab",
         countDown: 5,
         role: 0,
         description: "Kiss someone using mention, reply, or UID",

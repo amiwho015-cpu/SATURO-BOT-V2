@@ -3,7 +3,7 @@ module.exports = {
     name: "spy",
     version: "2.0",
     role: 0,
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     description: "Get user information and profile photo",
     category: "information",
     countDown: 5,

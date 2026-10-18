@@ -6,7 +6,7 @@ module.exports = {
     name: "uptime3",
     aliases: ["up3"],
     version: "1.2",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "system uptime",

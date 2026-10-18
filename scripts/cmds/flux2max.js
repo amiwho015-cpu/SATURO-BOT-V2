@@ -38,7 +38,7 @@ module.exports = {
     name: "flux2max",
     aliases: ["flux2-max", "fluxai"],
     version: "1.0.0",
-    author: "xalman",
+    author: "CRX Shihab",
     countDown: 15,
     role: 0,
     shortDescription: { en: "Generate or edit images with Flux 2 Max" },

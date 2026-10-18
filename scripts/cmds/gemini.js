@@ -35,7 +35,7 @@ module.exports = {
   config: {
     name: "gemini",
     version: "4.0",
-    author: "xalman",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "AI Image Generator",

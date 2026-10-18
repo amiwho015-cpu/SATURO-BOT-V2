@@ -10,7 +10,7 @@ module.exports = {
     name: "kill",
     aliases: ["killed"],
     version: "2.0",
-    author: "xalman",
+    author: "CRX Shihab",
     role: 0,
     countDown: 5,
     shortDescription: "Make a kidnap-style image",

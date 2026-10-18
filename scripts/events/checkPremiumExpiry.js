@@ -30,7 +30,7 @@ module.exports = {
         config: {
                 name: "checkPremiumExpiry",
                 version: "1.0",
-                author: "NeoKEX",
+                author: "CRX Shihab",
                 category: "events"
         },
 

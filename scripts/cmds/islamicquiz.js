@@ -34,7 +34,7 @@ module.exports = {
     name: "islamicquiz",
     aliases: ["iquiz", "iqz"],
     version: "6.1",
-    author: "xalman",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     description: "Play Islamic quiz with rewards",

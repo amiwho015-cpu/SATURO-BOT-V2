@@ -14,7 +14,7 @@ module.exports = {
   config: {
     name: "squeeze",
     version: "10.0",
-    author: "xalman",
+    author: "CRX Shihab",
     role: 0,
     countDown: 10,
     shortDescription: "Squeeze image effect",

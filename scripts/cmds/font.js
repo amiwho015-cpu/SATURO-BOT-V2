@@ -5,7 +5,7 @@ module.exports = {
     name: "font",
     aliases: ["fonts"],
     version: "0.0.7",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     role: 0,
     shortDescription: "🎨 Convert text to stylish",
     longDescription: "Generate stylish fonts",

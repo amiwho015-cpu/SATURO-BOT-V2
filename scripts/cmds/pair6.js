@@ -6,7 +6,7 @@ module.exports = {
     name: "pair6",
     aliases: ["pr6", "pair 6"],
     version: "1.0.0",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "Random & Reply Pair System",

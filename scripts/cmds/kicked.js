@@ -9,7 +9,7 @@ module.exports = {
   config: {
     name: "kicked",
     version: "2.5",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: "Generate a kick image with circular avatars",

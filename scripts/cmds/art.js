@@ -37,7 +37,7 @@ module.exports = {
         name: "art",
         aliases: ["artx"],
         version: "3.0",
-        author: "xalman",
+        author: "CRX Shihab",
         countDown: 3,
         role: 0,
         shortDescription: "Generate 4 AI images in one grid",

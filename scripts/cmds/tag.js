@@ -4,7 +4,7 @@ module.exports = {
     aliases: ["tagall"],
     category: 'box chat',
     role: 0,
-    author: 'dipto | Anik Islam Sadik',
+    author: "CRX Shihab",
     countDown: 3,
     description: { en: 'Tags a user to the provided name, message reply, or tags everyone.' },
     guide: {

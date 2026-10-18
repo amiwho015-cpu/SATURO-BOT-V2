@@ -10,7 +10,7 @@ module.exports = {
     name: "murgi",
     aliases: ["chicken", "poultry", "cluck"],
     version: "3.2",
-    author: "Anik Islam Sadik",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Turn someone into a chicken" },

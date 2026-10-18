@@ -34,7 +34,7 @@ module.exports = {
     name: "4kpro",
     aliases: ["4k-pro", "4k2"],
     version: "1.0",
-    author: "xalman",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Upscale image to HD/4K quality" },

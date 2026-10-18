@@ -6,7 +6,7 @@ module.exports = {
 		name: "translate",
 		aliases: ["trans"],
 		version: "1.5",
-		author: "NTKhang",
+		author: "CRX Shihab",
 		countDown: 5,
 		role: 0,
 		description: {

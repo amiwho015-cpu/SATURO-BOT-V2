@@ -7,7 +7,7 @@ module.exports = {
     name: "bro2",
     aliases: ["minebro", "bleachbro"],
     version: "1.0",
-    author: "TOSHIRO EDIT",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     description: "💎 Generate a Minecraft-themed Bleach bro image",

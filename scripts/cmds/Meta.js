@@ -89,7 +89,7 @@ module.exports = {
     name: "meta",
     aliases: ["img", "imagine"],
     version: "1.3",
-    author: "Neoaz 🐊",
+    author: "CRX Shihab",
     countDown: 5,
     role: 0,
     shortDescription: { en: "AI image generation and editing" },
